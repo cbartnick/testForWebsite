@@ -1,2 +1,2 @@
 # testForWebsite
-Learning how to desing Websites using Jekyll
+Learning how to design Websites using Jekyll
