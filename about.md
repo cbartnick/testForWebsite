@@ -4,5 +4,5 @@ title: subpage
 permalink: /about/
 ---
 
-#Some more content
-How exiting!
+# Some more content
+Here will be more content
